@@ -1,0 +1,6 @@
+wdrożenie google maps api
+określenie obecnej lokalizacji użytkownika
+utworzenie poi z lokalizacjami lumpeksów
+ustalenie najbliższego lumpeksu
+rysowanie polylinów z obecnej lokalizacji do najbliższego lumpeksu
+zrobienie jakiegoś prostego GUI
